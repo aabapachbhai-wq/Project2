@@ -1,0 +1,1 @@
+// Added some features to the app.js file for Project2.
